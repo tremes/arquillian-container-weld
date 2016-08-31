@@ -1,4 +1,4 @@
-[![Travis CI Build Status](https://img.shields.io/travis/arquillian/arquillian-container-weld/master.svg)](https://travis-ci.org/arquillian/arquillian-container-weld)
+https://img.shields.io/travis/arquillian/arquillian-container-weld/master.svg[link::https://travis-ci.org/arquillian/arquillian-container-weld]
 
 == Arquillian-container-Weld
 
