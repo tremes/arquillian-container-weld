@@ -1,4 +1,4 @@
-https://img.shields.io/travis/arquillian/arquillian-container-weld/master.svg[link::https://travis-ci.org/arquillian/arquillian-container-weld]
+image::https://img.shields.io/travis/arquillian/arquillian-container-weld/master.svg[link="https://travis-ci.org/arquillian/arquillian-container-weld"]
 
 == Arquillian-container-Weld
 
